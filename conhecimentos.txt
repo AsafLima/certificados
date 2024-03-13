@@ -1,0 +1,31 @@
+Conhecimentos
+
+<FRONTEND>
+- Angular
+- VueJS
+- JavaScript
+- HTML/CSS
+- JSF
+
+<BACKEND>
+- NodeJS
+- Java (springboot, jaxrs)
+- MySQL (procedures)
+- MongoDB
+- Python
+
+<RPA>
+- Electroneek
+- Automation Anywhere
+
+<GERAIS>
+- Digibee
+- Cloud
+- Formato Agile (daily, sprint, retro, review...)
+- Fortify, SonarQube, Bamboo, BitBucket, Git, GitLab
+- Lingua inglesa
+
+
+
+
+
